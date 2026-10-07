@@ -15,3 +15,4 @@
 - entry 15
 - entry 16
 - pair entry with 
+- pair entry with dskmu
