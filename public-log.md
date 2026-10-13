@@ -1,2 +1,3 @@
 - public entry 1
 - public entry 2
+- public pair entry with dskmu
