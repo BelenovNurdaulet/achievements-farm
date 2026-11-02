@@ -18,3 +18,4 @@
 - pair entry with dskmu
 - yolo entry
 - batch2 entry 1
+- batch2 entry 2
